@@ -1,7 +1,5 @@
 <div align="center">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ok0&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&langs_count=12"/>
-
 
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
